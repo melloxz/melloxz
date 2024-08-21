@@ -1,7 +1,7 @@
-  Olá eu sou o melloxz
+  _Olá eu sou o **melloxz**_
 
-  Estou estudando na alura.
+  _Estou estudando na alura._
   
-  Estou me desenvolvendo na linguagem JavaScript.
+  _Estou me desenvolvendo na linguagem JavaScript._
   
-  Utilizo esse espaço para minha organização e para a criação dos meus projetos.
+  _Utilizo esse espaço para minha organização e para a criação dos meus projetos._
